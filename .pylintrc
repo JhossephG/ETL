@@ -2,7 +2,7 @@
 
 disable=
       C0114, #Missing-module-docstring
-      C0015, #Missing-class-docstring
+      C0115, #Missing-class-docstring
       C0116, #Missing-function-docstring
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
